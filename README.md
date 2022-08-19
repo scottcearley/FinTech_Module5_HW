@@ -1,6 +1,6 @@
 # Module 5 Homework
 
-![Financial Planner](Images/financial-planner.png)
+![Financial Planner](Images/fintech_image.png)
 
 Using APIs to create financial analysis tools
 
